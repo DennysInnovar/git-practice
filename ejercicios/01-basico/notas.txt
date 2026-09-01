@@ -1,17 +1,10 @@
 Notas del practicante
 ======================
-Zahid Huahuachampi Hinojosa
+
+
 Usa este archivo para el Ejercicio 1 de la guía:
 agrega una línea por cada commit que hagas.
-
-Hoy aprendi comandos de git en la mañana
-
-Luego fuimos a almorzar, esta es una prueba para practicar commits
-
-Para explorar el historial: 
-
-git log --oneline --graph --all 
-
-
---graph: añade un un gràfico en formato ASCII
---all: amplìa el visor  para incluir todas las ramas (tanto locales como remotas)
+-joseph 01/09/2026
+-kev 01/09/2026
+-dan 02/09/2026
+-josue 03/09/2026
