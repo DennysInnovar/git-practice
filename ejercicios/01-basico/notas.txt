@@ -5,3 +5,4 @@ Usa este archivo para el Ejercicio 1 de la guía:
 agrega una línea por cada commit que hagas.
 
 -kev 01/09/2026
+-dan 02/09/2026
