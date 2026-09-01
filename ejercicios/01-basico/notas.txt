@@ -7,3 +7,5 @@ agrega una línea por cada commit que hagas.
 nombre: jorge 01/09/2026
 
 aprendi nuevos comandos de git como git fech o git rebase
+
+lo que hice hoy fue hacer ajercicios con git
