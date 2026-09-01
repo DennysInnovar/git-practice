@@ -3,5 +3,3 @@ service_name = practica-api
 environment = production
 max_connections = 1000
 enable_cache = true
-port = 8000
-log_level = comu

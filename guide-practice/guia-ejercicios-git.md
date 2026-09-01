@@ -199,10 +199,10 @@ Este archivo tiene varios commits en su historial, y en algún punto se introduj
 
 ## Checklist final
 
-- [X] Ejercicio 1 — 3 commits en mi rama
-- [X] Ejercicio 2 — respondí las preguntas del historial
-- [X] Ejercicio 3 — abrí mi Pull Request
-- [X] Reto 1 — resolví el conflicto
+- [ ] Ejercicio 1 — 3 commits en mi rama
+- [ ] Ejercicio 2 — respondí las preguntas del historial
+- [ ] Ejercicio 3 — abrí mi Pull Request
+- [ ] Reto 1 — resolví el conflicto
 - [ ] Reto 2 — cherry-pick exitoso
 - [ ] Reto 3 — probé revert y reset
 - [ ] Reto 4 — rebase interactivo con squash
