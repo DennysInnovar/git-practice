@@ -9,19 +9,23 @@ Si algo está roto, lanza un AssertionError y termina con código != 0.
 
 
 def add(a, b):
+    """Suma dos números."""
     return a + b
 
 
 def subtract(a, b):
+    """Resta b de a."""
     # BUG: se cambió el operador por error durante una "optimización"
     return a + b
 
 
 def multiply(a, b):
+    """Multiplica dos números."""
     return a * b
 
 
 def divide(a, b):
+    """Divide a entre b."""
     return a / b
 
 
