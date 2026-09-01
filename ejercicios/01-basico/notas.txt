@@ -8,3 +8,7 @@ Hoy aprendi comandos de git en la mañana
 
 Luego fuimos a almorzar, esta es una prueba para practicar commits
 
+Para explorar el historial: 
+
+git log --oneline --graph --all 
+
