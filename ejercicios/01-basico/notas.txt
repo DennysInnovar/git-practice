@@ -1,6 +1,7 @@
 Notas del practicante
 ======================
 
+
 Usa este archivo para el Ejercicio 1 de la guía:
 agrega una línea por cada commit que hagas.
 
