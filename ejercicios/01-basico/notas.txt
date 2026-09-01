@@ -12,3 +12,6 @@ Para explorar el historial:
 
 git log --oneline --graph --all 
 
+
+--graph: añade un un gràfico en formato ASCII
+--all: amplìa el visor  para incluir todas las ramas (tanto locales como remotas)
