@@ -13,7 +13,8 @@ def add(a, b):
 
 
 def subtract(a, b):
-    return a - b
+    # BUG: se cambió el operador por error durante una "optimización"
+    return a + b
 
 
 def multiply(a, b):
