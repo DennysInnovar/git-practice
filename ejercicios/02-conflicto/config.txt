@@ -1,7 +1,14 @@
 # Configuración del servicio
 service_name = practica-api
+<<<<<<< HEAD
 environment = production
 port = 80
 log_level = info
 max_connections = 1000
 enable_cache = true
+=======
+environment = development
+port = 8000
+log_level = comu
+max_connections = 200
+>>>>>>> 9821939 (Conflictos a resolver)
