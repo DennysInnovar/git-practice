@@ -6,3 +6,5 @@ agrega una línea por cada commit que hagas.
 
 Hoy aprendi comandos de git en la mañana
 
+Luego fuimos a almorzar, esta es una prueba para practicar commits
+
