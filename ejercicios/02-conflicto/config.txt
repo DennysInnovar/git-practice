@@ -1,6 +1,7 @@
 # Configuración del servicio
 service_name = practica-api
-environment = development
-port = 8000
-log_level = comu
-max_connections = 200
+environment = local
+port = 8080
+log_level = debug
+max_connections = 50
+debug_mode = true
