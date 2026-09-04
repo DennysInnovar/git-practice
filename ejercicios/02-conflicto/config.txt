@@ -1,6 +1,5 @@
 # Configuración del servicio
 service_name = practica-api
-environment = development
-port = 8080
-log_level = info
-max_connections = 100
+environment = production
+max_connections = 1000
+enable_cache = true
